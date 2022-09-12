@@ -1,0 +1,6 @@
+export const colorPrimario='#FA4D09'
+export const colorSecundario='#000'
+export const colorTercero='#03629D'
+export const colorWhite='#fff'
+export const colorCuarto='#828282'
+export const colorPrimarioOpacity='rgba(248,232,31,.4)'
